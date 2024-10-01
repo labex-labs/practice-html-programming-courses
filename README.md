@@ -4,26 +4,24 @@
 <img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
 </div>
 
-HTML is a markup language that is used to create web pages. It is the standard markup language used for creating web pages and web applications. HTML stands for Hyper Text Markup Language. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+HTML is the foundation of web development. This Skill Tree offers a comprehensive learning path for mastering HTML. Ideal for web development beginners, it provides a structured roadmap to understand document structure, tags, and semantic markup. Through hands-on, non-video courses and practical exercises in a dynamic HTML playground, you'll gain real-world experience in creating well-structured web pages.
 
-|   Index | Name                                                                          | Level   | Repo                                                             | Course Link                                                  |
-|---------|-------------------------------------------------------------------------------|---------|------------------------------------------------------------------|--------------------------------------------------------------|
-|       1 | [Quick Start with HTML](https://labex.io/courses/quick-start-with-html)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html)    | [🚀 Start](https://labex.io/courses/quick-start-with-html)    |
-|       2 | [HTML Practice Labs](https://labex.io/courses/html-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/html-practice-labs)       | [🚀 Start](https://labex.io/courses/html-practice-labs)       |
-|       3 | [HTML Practice Challenges](https://labex.io/courses/html-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/html-practice-challenges) | [🚀 Start](https://labex.io/courses/html-practice-challenges) |
+|   Index | Name                                                                    | Level   | Repo                                                          | Course Link                                               |
+|---------|-------------------------------------------------------------------------|---------|---------------------------------------------------------------|-----------------------------------------------------------|
+|       1 | [Quick Start with HTML](https://labex.io/courses/quick-start-with-html) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Start](https://labex.io/courses/quick-start-with-html) |
 
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
