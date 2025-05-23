@@ -12,8 +12,8 @@ HTML 是网页开发的基石。此技能树为掌握 HTML 提供了全面的学
 
 |   序号 | 名称                                                               | 难度   | Repo                                                           | 练习                                                             |
 |--------|--------------------------------------------------------------------|--------|----------------------------------------------------------------|------------------------------------------------------------------|
-|      1 | [HTML 入门教程](https://labex.io/zh/courses/html-for-beginners)    | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 开始实验](https://labex.io/zh/courses/html-for-beginners)    |
-|      2 | [HTML 快速入门](https://labex.io/zh/courses/quick-start-with-html) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-html) |
+|      1 | [HTML 入门教程](https://labex.io/zh/courses/html-for-beginners)    | 初级   | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 开始实验](https://labex.io/zh/courses/html-for-beginners)    |
+|      2 | [HTML 快速入门](https://labex.io/zh/courses/quick-start-with-html) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-html) |
 
 ## 更多
 
