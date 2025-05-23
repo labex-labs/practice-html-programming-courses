@@ -12,8 +12,8 @@ HTML является основой веб-разработки. Эта уче�
 
 |   Индекс | Название                                                                  | Сложность   | Repo                                                           | Практика                                                                   |
 |----------|---------------------------------------------------------------------------|-------------|----------------------------------------------------------------|----------------------------------------------------------------------------|
-|        1 | [HTML для начинающих](https://labex.io/ru/courses/html-for-beginners)     | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/html-for-beginners)    |
-|        2 | [Быстрый старт с HTML](https://labex.io/ru/courses/quick-start-with-html) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-html) |
+|        1 | [HTML для начинающих](https://labex.io/ru/courses/html-for-beginners)     | Начинающий  | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Начать Лабораторию](https://labex.io/ru/courses/html-for-beginners)    |
+|        2 | [Быстрый старт с HTML](https://labex.io/ru/courses/quick-start-with-html) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-html) |
 
 ## Больше
 
