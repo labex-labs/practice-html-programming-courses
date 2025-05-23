@@ -12,8 +12,8 @@ HTML 은 웹 개발의 핵심입니다. 이 스킬 트리는 HTML 마스터를 �
 
 |   인덱스 | 이름                                                                      | 난이도   | Repo                                                           | 연습                                                              |
 |----------|---------------------------------------------------------------------------|----------|----------------------------------------------------------------|-------------------------------------------------------------------|
-|        1 | [HTML 초보자를 위한 강좌](https://labex.io/ko/courses/html-for-beginners) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 실습 시작](https://labex.io/ko/courses/html-for-beginners)    |
-|        2 | [HTML 빠른 시작](https://labex.io/ko/courses/quick-start-with-html)       | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-html) |
+|        1 | [HTML 초보자를 위한 강좌](https://labex.io/ko/courses/html-for-beginners) | 초급     | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 실습 시작](https://labex.io/ko/courses/html-for-beginners)    |
+|        2 | [HTML 빠른 시작](https://labex.io/ko/courses/quick-start-with-html)       | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-html) |
 
 ## 더 보기
 
