@@ -12,8 +12,8 @@ HTML is the cornerstone of web development. This Skill Tree presents a comprehen
 
 |   Index | Name                                                                    | Difficulty   | Repo                                                           | Practice                                                       |
 |---------|-------------------------------------------------------------------------|--------------|----------------------------------------------------------------|----------------------------------------------------------------|
-|       1 | [HTML for Beginners](https://labex.io/courses/html-for-beginners)       | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Start Lab](https://labex.io/courses/html-for-beginners)    |
-|       2 | [Quick Start with HTML](https://labex.io/courses/quick-start-with-html) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-html) |
+|       1 | [HTML for Beginners](https://labex.io/courses/html-for-beginners)       | Beginner     | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Start Lab](https://labex.io/courses/html-for-beginners)    |
+|       2 | [Quick Start with HTML](https://labex.io/courses/quick-start-with-html) | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-html) |
 
 ## More
 
