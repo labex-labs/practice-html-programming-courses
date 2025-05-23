@@ -12,8 +12,8 @@ HTML est la pierre angulaire du développement web. Cet arbre de compétences pr
 
 |   Index | Nom                                                                             | Difficulté   | Repo                                                           | Pratique                                                                 |
 |---------|---------------------------------------------------------------------------------|--------------|----------------------------------------------------------------|--------------------------------------------------------------------------|
-|       1 | [HTML pour les débutants](https://labex.io/fr/courses/html-for-beginners)       | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Commencer le Lab](https://labex.io/fr/courses/html-for-beginners)    |
-|       2 | [Démarrage rapide avec HTML](https://labex.io/fr/courses/quick-start-with-html) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-html) |
+|       1 | [HTML pour les débutants](https://labex.io/fr/courses/html-for-beginners)       | Débutant     | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Commencer le Lab](https://labex.io/fr/courses/html-for-beginners)    |
+|       2 | [Démarrage rapide avec HTML](https://labex.io/fr/courses/quick-start-with-html) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-html) |
 
 ## Plus
 
