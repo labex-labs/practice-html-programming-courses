@@ -12,8 +12,8 @@ HTML はウェブ開発の基礎です。このスキルツリーは、HTML を�
 
 |   インデックス | 名前                                                                         | 難易度   | Repo                                                           | 練習                                                               |
 |----------------|------------------------------------------------------------------------------|----------|----------------------------------------------------------------|--------------------------------------------------------------------|
-|              1 | [初心者のための HTML](https://labex.io/ja/courses/html-for-beginners)        | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 ラボを開始](https://labex.io/ja/courses/html-for-beginners)    |
-|              2 | [HTML のクイックスタート](https://labex.io/ja/courses/quick-start-with-html) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-html) |
+|              1 | [初心者のための HTML](https://labex.io/ja/courses/html-for-beginners)        | 初級     | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 ラボを開始](https://labex.io/ja/courses/html-for-beginners)    |
+|              2 | [HTML のクイックスタート](https://labex.io/ja/courses/quick-start-with-html) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-html) |
 
 ## その他
 
