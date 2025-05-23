@@ -12,8 +12,8 @@ HTML es la base del desarrollo web. Este Skill Tree presenta un camino de aprend
 
 |   Índice | Nombre                                                                      | Dificultad   | Repo                                                           | Práctica                                                                    |
 |----------|-----------------------------------------------------------------------------|--------------|----------------------------------------------------------------|-----------------------------------------------------------------------------|
-|        1 | [HTML para Principiantes](https://labex.io/es/courses/html-for-beginners)   | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/html-for-beginners)    |
-|        2 | [Inicio rápido con HTML](https://labex.io/es/courses/quick-start-with-html) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-html) |
+|        1 | [HTML para Principiantes](https://labex.io/es/courses/html-for-beginners)   | Principiante | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/html-for-beginners)    |
+|        2 | [Inicio rápido con HTML](https://labex.io/es/courses/quick-start-with-html) | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-html) |
 
 ## Más
 
