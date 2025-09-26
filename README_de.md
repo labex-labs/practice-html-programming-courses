@@ -8,12 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
 </div>
 
-HTML ist das Fundament der Webentwicklung. Dieser Skill Tree bietet einen umfassenden Lernpfad zur Beherrschung von HTML. Er ist ideal für Anfänger in der Webentwicklung und bietet eine strukturierte Roadmap, um die Dokumentstruktur, Tags und semantische Auszeichnung zu verstehen. Durch praktische, nicht-videobasierte Kurse und Übungen in einem dynamischen HTML-Spielplatz sammeln Sie praktische Erfahrungen in der Erstellung gut strukturierter Webseiten.
+Lernen Sie HTML, den Grundstein der Webentwicklung, mit diesem umfassenden Lernpfad. Dieser Fahrplan wurde für Anfänger entwickelt und bietet einen strukturierten Ansatz zur Beherrschung von HTML. Die interaktiven HTML-Kurse behandeln Dokumentstruktur, Tags und semantisches Markup. Sammeln Sie praktische Erfahrungen, indem Sie praktische Übungen ohne Video in einem dynamischen HTML-Playground absolvieren, um gut strukturierte Webseiten zu erstellen.
 
-|   Index | Name                                                                       | Schwierigkeit   | Repo                                                           | Übung                                                                 |
-|---------|----------------------------------------------------------------------------|-----------------|----------------------------------------------------------------|-----------------------------------------------------------------------|
-|       1 | [HTML für Anfänger](https://labex.io/de/courses/html-for-beginners)        | Anfänger        | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Labor Starten](https://labex.io/de/courses/html-for-beginners)    |
-|       2 | [Schnellstart mit HTML](https://labex.io/de/courses/quick-start-with-html) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-html) |
+|   Index | Name                                                                | Schwierigkeit   | Repo                                                        | Übung                                                              |
+|---------|---------------------------------------------------------------------|-----------------|-------------------------------------------------------------|--------------------------------------------------------------------|
+|       1 | [HTML für Anfänger](https://labex.io/de/courses/html-for-beginners) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/html-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/html-for-beginners) |
 
 ## Mehr
 
