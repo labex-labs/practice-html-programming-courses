@@ -8,12 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
 </div>
 
-HTML is the cornerstone of web development. This Skill Tree presents a comprehensive learning path for mastering HTML. It's perfect for web development beginners, offering a structured roadmap to understand document structure, tags, and semantic markup. Through hands - on, non - video courses and practical exercises in a dynamic HTML playground, you'll gain real - world experience in creating well - structured web pages.
+Learn HTML, the cornerstone of web development, with this comprehensive learning path. Designed for beginners, this roadmap provides a structured approach to mastering HTML. The interactive HTML courses cover document structure, tags, and semantic markup. Gain real-world experience by completing hands-on, non-video exercises in a dynamic HTML playground to create well-structured web pages.
 
-|   Index | Name                                                                    | Difficulty   | Repo                                                           | Practice                                                       |
-|---------|-------------------------------------------------------------------------|--------------|----------------------------------------------------------------|----------------------------------------------------------------|
-|       1 | [HTML for Beginners](https://labex.io/courses/html-for-beginners)       | Beginner     | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Start Lab](https://labex.io/courses/html-for-beginners)    |
-|       2 | [Quick Start with HTML](https://labex.io/courses/quick-start-with-html) | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-html) |
+|   Index | Name                                                              | Difficulty   | Repo                                                        | Practice                                                    |
+|---------|-------------------------------------------------------------------|--------------|-------------------------------------------------------------|-------------------------------------------------------------|
+|       1 | [HTML for Beginners](https://labex.io/courses/html-for-beginners) | Beginner     | [🔗 Repo](https://github.com/labex-labs/html-for-beginners) | [🚀 Start Lab](https://labex.io/courses/html-for-beginners) |
 
 ## More
 
