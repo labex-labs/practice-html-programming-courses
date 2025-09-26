@@ -8,12 +8,11 @@
 <img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
 </div>
 
-HTML é a base do desenvolvimento web. Esta Skill Tree apresenta um caminho de aprendizagem abrangente para dominar HTML. É perfeito para iniciantes em desenvolvimento web, oferecendo um roteiro estruturado para entender a estrutura do documento, tags e marcação semântica. Através de cursos práticos, sem vídeos e exercícios práticos em um playground HTML dinâmico, você obterá experiência do mundo real na criação de páginas web bem estruturadas.
+Aprenda HTML, a pedra angular do desenvolvimento web, com este caminho de aprendizagem abrangente. Projetado para iniciantes, este roteiro oferece uma abordagem estruturada para dominar o HTML. Os cursos interativos de HTML cobrem a estrutura do documento, tags e marcação semântica. Ganhe experiência prática ao completar exercícios práticos, não em vídeo, em um ambiente HTML dinâmico para criar páginas web bem estruturadas.
 
-|   Índice | Nome                                                                        | Dificuldade   | Repo                                                           | Prática                                                             |
-|----------|-----------------------------------------------------------------------------|---------------|----------------------------------------------------------------|---------------------------------------------------------------------|
-|        1 | [HTML para Iniciantes](https://labex.io/pt/courses/html-for-beginners)      | Iniciante     | [🔗 Repo](https://github.com/labex-labs/html-for-beginners)    | [🚀 Iniciar Lab](https://labex.io/pt/courses/html-for-beginners)    |
-|        2 | [Início Rápido com HTML](https://labex.io/pt/courses/quick-start-with-html) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-html) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-html) |
+|   Índice | Nome                                                                   | Dificuldade   | Repo                                                        | Prática                                                          |
+|----------|------------------------------------------------------------------------|---------------|-------------------------------------------------------------|------------------------------------------------------------------|
+|        1 | [HTML para Iniciantes](https://labex.io/pt/courses/html-for-beginners) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/html-for-beginners) | [🚀 Iniciar Lab](https://labex.io/pt/courses/html-for-beginners) |
 
 ## Mais
 
